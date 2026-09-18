@@ -1,0 +1,30 @@
+name: Refresh Compounder Data
+
+on:
+  schedule:
+    - cron: "0 6 * * 1-5"
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - run: python3 scripts/refresh_all.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "compounder-bot"
+          git config user.email "compounder-bot@users.noreply.github.com"
+          git add data/latest_snapshot.json data/history_multiples.json data/zones.json
+          git diff --cached --quiet || git commit -m "Daily data refresh"
+          git push
