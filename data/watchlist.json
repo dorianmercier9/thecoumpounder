@@ -1,0 +1,86 @@
+{
+  "PEA": [
+    {
+      "name": "BNP Paribas",
+      "ticker": "BNP.PA",
+      "method": "PE"
+    },
+    {
+      "name": "AXA",
+      "ticker": "CS.PA",
+      "method": "PE_PB"
+    },
+    {
+      "name": "Vinci",
+      "ticker": "DG.PA",
+      "method": "EV_EBITDA"
+    },
+    {
+      "name": "Veolia",
+      "ticker": "VIE.PA",
+      "method": "EV_EBITDA"
+    },
+    {
+      "name": "Safran",
+      "ticker": "SAF.PA",
+      "method": "EV_EBITDA"
+    },
+    {
+      "name": "Dassault Aviation",
+      "ticker": "AM.PA",
+      "method": "EV_EBITDA"
+    },
+    {
+      "name": "Schneider Electric",
+      "ticker": "SU.PA",
+      "method": "EV_EBITDA"
+    },
+    {
+      "name": "TotalEnergies",
+      "ticker": "TTE.PA",
+      "method": "FCF_YIELD"
+    },
+    {
+      "name": "LVMH",
+      "ticker": "MC.PA",
+      "method": "PE"
+    }
+  ],
+  "CTO": [
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "method": "EV_EBITDA"
+    },
+    {
+      "name": "Google",
+      "ticker": "GOOGL",
+      "method": "PE_CASH_ADJ"
+    },
+    {
+      "name": "Nvidia",
+      "ticker": "NVDA",
+      "method": "EV_SALES"
+    },
+    {
+      "name": "Interactive Brokers",
+      "ticker": "IBKR",
+      "method": "PE_NORMALIZED"
+    },
+    {
+      "name": "Mastercard",
+      "ticker": "MA",
+      "method": "PE"
+    },
+    {
+      "name": "Visa",
+      "ticker": "V",
+      "method": "PE"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "ticker": "BRK-B",
+      "method": "PB"
+    }
+  ]
+}

@@ -1,0 +1,990 @@
+{
+  "BNP.PA": {
+    "name": "BNP Paribas",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 5.5,
+      "n_years": 4,
+      "values": [
+        6.89,
+        5.21,
+        5.22,
+        4.68
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 0.5,
+      "n_years": 4,
+      "values": [
+        0.67,
+        0.48,
+        0.46,
+        0.38
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": null,
+    "ev_sales_history": {
+      "average": 2.14,
+      "n_years": 2,
+      "values": [
+        2.26,
+        2.02
+      ],
+      "excluded_as_outliers": [
+        -0.07,
+        -2.35
+      ]
+    },
+    "fcf_yield_history": {
+      "average": 0.5191,
+      "n_years": 1,
+      "values": [
+        0.5191
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "CS.PA": {
+    "name": "AXA",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 7.97,
+      "n_years": 4,
+      "values": [
+        7.85,
+        8.15,
+        7.26,
+        8.62
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 1.23,
+      "n_years": 4,
+      "values": [
+        1.63,
+        1.29,
+        1.05,
+        0.95
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": null,
+    "ev_sales_history": {
+      "average": 1.0,
+      "n_years": 4,
+      "values": [
+        1.09,
+        1.04,
+        0.89,
+        1.0
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.1823,
+      "n_years": 4,
+      "values": [
+        0.2851,
+        0.1865,
+        0.0673,
+        0.1903
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "DG.PA": {
+    "name": "Vinci",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 11.77,
+      "n_years": 4,
+      "values": [
+        13.26,
+        11.72,
+        11.64,
+        10.44
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 1.92,
+      "n_years": 4,
+      "values": [
+        2.11,
+        1.9,
+        1.95,
+        1.71
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 6.05,
+      "n_years": 4,
+      "values": [
+        6.26,
+        6.11,
+        5.88,
+        5.95
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 1.05,
+      "n_years": 4,
+      "values": [
+        1.13,
+        1.07,
+        1.01,
+        1.01
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.1304,
+      "n_years": 4,
+      "values": [
+        0.1233,
+        0.1344,
+        0.1317,
+        0.1323
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "VIE.PA": {
+    "name": "Veolia",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 18.6,
+      "n_years": 4,
+      "values": [
+        16.96,
+        17.72,
+        19.16,
+        20.58
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 1.52,
+      "n_years": 4,
+      "values": [
+        1.9,
+        1.51,
+        1.46,
+        1.2
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 5.11,
+      "n_years": 4,
+      "values": [
+        5.32,
+        4.85,
+        5.18,
+        5.11
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 0.68,
+      "n_years": 4,
+      "values": [
+        0.75,
+        0.67,
+        0.66,
+        0.64
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.2673,
+      "n_years": 4,
+      "values": [
+        0.2497,
+        0.259,
+        0.2788,
+        0.2815
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "SAF.PA": {
+    "name": "Safran",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 16.74,
+      "n_years": 2,
+      "values": [
+        15.83,
+        17.66
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 6.38,
+      "n_years": 4,
+      "values": [
+        7.66,
+        8.33,
+        5.25,
+        4.29
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 9.47,
+      "n_years": 2,
+      "values": [
+        9.44,
+        9.5
+      ],
+      "excluded_as_outliers": [
+        123.21
+      ]
+    },
+    "ev_sales_history": {
+      "average": 2.87,
+      "n_years": 4,
+      "values": [
+        3.6,
+        3.01,
+        2.57,
+        2.3
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0451,
+      "n_years": 4,
+      "values": [
+        0.0345,
+        0.0376,
+        0.0484,
+        0.0597
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "AM.PA": {
+    "name": "Dassault Aviation",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 18.3,
+      "n_years": 4,
+      "values": [
+        22.3,
+        15.57,
+        19.62,
+        15.72
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 2.45,
+      "n_years": 4,
+      "values": [
+        3.27,
+        2.27,
+        2.37,
+        1.87
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 10.71,
+      "n_years": 4,
+      "values": [
+        13.81,
+        9.63,
+        12.33,
+        7.07
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 2.11,
+      "n_years": 4,
+      "values": [
+        2.7,
+        2.09,
+        2.58,
+        1.08
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0913,
+      "n_years": 2,
+      "values": [
+        0.0759,
+        0.1067
+      ],
+      "excluded_as_outliers": [
+        0.4383
+      ]
+    }
+  },
+  "SU.PA": {
+    "name": "Schneider Electric",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 24.97,
+      "n_years": 4,
+      "values": [
+        29.89,
+        28.74,
+        21.52,
+        19.74
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 3.78,
+      "n_years": 4,
+      "values": [
+        5.14,
+        4.02,
+        3.26,
+        2.7
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 14.38,
+      "n_years": 4,
+      "values": [
+        16.44,
+        16.17,
+        13.09,
+        11.8
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 2.93,
+      "n_years": 4,
+      "values": [
+        3.43,
+        3.42,
+        2.66,
+        2.2
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0428,
+      "n_years": 4,
+      "values": [
+        0.0369,
+        0.0339,
+        0.0527,
+        0.0475
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "TTE.PA": {
+    "name": "TotalEnergies",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 6.93,
+      "n_years": 4,
+      "values": [
+        8.78,
+        8.06,
+        5.67,
+        5.2
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 1.02,
+      "n_years": 4,
+      "values": [
+        1.0,
+        1.08,
+        1.04,
+        0.95
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 3.13,
+      "n_years": 4,
+      "values": [
+        3.89,
+        3.61,
+        2.79,
+        2.21
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 0.69,
+      "n_years": 4,
+      "values": [
+        0.83,
+        0.78,
+        0.65,
+        0.5
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.1755,
+      "n_years": 4,
+      "values": [
+        0.0902,
+        0.1255,
+        0.1892,
+        0.297
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "MC.PA": {
+    "name": "LVMH",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 24.16,
+      "n_years": 4,
+      "values": [
+        24.58,
+        26.68,
+        24.21,
+        21.19
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 5.09,
+      "n_years": 4,
+      "values": [
+        3.96,
+        4.96,
+        6.02,
+        5.42
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 12.64,
+      "n_years": 4,
+      "values": [
+        11.42,
+        13.52,
+        13.38,
+        12.21
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 4.18,
+      "n_years": 4,
+      "values": [
+        3.65,
+        4.33,
+        4.62,
+        4.12
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0412,
+      "n_years": 4,
+      "values": [
+        0.0531,
+        0.0399,
+        0.0288,
+        0.0427
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "AMZN": {
+    "name": "Amazon",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 35.94,
+      "n_years": 3,
+      "values": [
+        30.44,
+        34.01,
+        43.38
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 6.93,
+      "n_years": 4,
+      "values": [
+        5.75,
+        7.05,
+        6.54,
+        8.4
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 20.28,
+      "n_years": 4,
+      "values": [
+        14.7,
+        16.69,
+        15.46,
+        34.25
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 2.9,
+      "n_years": 4,
+      "values": [
+        3.39,
+        3.24,
+        2.4,
+        2.56
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0204,
+      "n_years": 2,
+      "values": [
+        0.0163,
+        0.0244
+      ],
+      "excluded_as_outliers": [
+        0.0033
+      ]
+    }
+  },
+  "GOOGL": {
+    "name": "Google",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 21.37,
+      "n_years": 4,
+      "values": [
+        20.07,
+        20.59,
+        20.8,
+        24.0
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 5.94,
+      "n_years": 4,
+      "values": [
+        6.39,
+        6.34,
+        5.42,
+        5.62
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 15.69,
+      "n_years": 4,
+      "values": [
+        14.84,
+        15.22,
+        15.7,
+        17.0
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 5.67,
+      "n_years": 4,
+      "values": [
+        6.66,
+        5.89,
+        5.0,
+        5.12
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0375,
+      "n_years": 4,
+      "values": [
+        0.0276,
+        0.0353,
+        0.0453,
+        0.0417
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "NVDA": {
+    "name": "Nvidia",
+    "years_used": [
+      "2026-01-31",
+      "2025-01-31",
+      "2024-01-31",
+      "2023-01-31"
+    ],
+    "pe_history": {
+      "average": 51.98,
+      "n_years": 4,
+      "values": [
+        33.44,
+        39.9,
+        35.99,
+        98.57
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 26.65,
+      "n_years": 4,
+      "values": [
+        25.53,
+        36.66,
+        24.92,
+        19.48
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 41.28,
+      "n_years": 4,
+      "values": [
+        27.78,
+        33.78,
+        30.21,
+        73.37
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 18.7,
+      "n_years": 4,
+      "values": [
+        18.6,
+        22.29,
+        17.64,
+        16.28
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0198,
+      "n_years": 4,
+      "values": [
+        0.0241,
+        0.0209,
+        0.0252,
+        0.0088
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "IBKR": {
+    "name": "Interactive Brokers",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 19.26,
+      "n_years": 4,
+      "values": [
+        26.06,
+        19.36,
+        14.39,
+        17.21
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 3.23,
+      "n_years": 4,
+      "values": [
+        4.78,
+        3.42,
+        2.41,
+        2.3
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 1.35,
+      "n_years": 4,
+      "values": [
+        2.28,
+        1.38,
+        0.74,
+        1.0
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 1.14,
+      "n_years": 4,
+      "values": [
+        2.02,
+        1.18,
+        0.63,
+        0.74
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.5811,
+      "n_years": 4,
+      "values": [
+        0.614,
+        0.5934,
+        0.5205,
+        0.5963
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "MA": {
+    "name": "Mastercard",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 33.26,
+      "n_years": 4,
+      "values": [
+        34.02,
+        34.24,
+        32.26,
+        32.52
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 59.29,
+      "n_years": 4,
+      "values": [
+        65.81,
+        67.97,
+        52.12,
+        51.28
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 25.54,
+      "n_years": 4,
+      "values": [
+        25.32,
+        26.82,
+        24.53,
+        25.47
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 15.32,
+      "n_years": 4,
+      "values": [
+        15.79,
+        16.0,
+        14.67,
+        14.84
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0311,
+      "n_years": 4,
+      "values": [
+        0.0323,
+        0.0308,
+        0.0302,
+        0.0313
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "V": {
+    "name": "Visa",
+    "years_used": [
+      "2025-09-30",
+      "2024-09-30",
+      "2023-09-30",
+      "2022-09-30"
+    ],
+    "pe_history": {
+      "average": 34.02,
+      "n_years": 4,
+      "values": [
+        37.29,
+        32.25,
+        32.21,
+        34.35
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 16.2,
+      "n_years": 4,
+      "values": [
+        19.73,
+        16.27,
+        14.36,
+        14.44
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": {
+      "average": 26.43,
+      "n_years": 4,
+      "values": [
+        29.07,
+        25.22,
+        24.78,
+        26.64
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_sales_history": {
+      "average": 17.95,
+      "n_years": 4,
+      "values": [
+        18.9,
+        17.97,
+        17.17,
+        17.76
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0321,
+      "n_years": 4,
+      "values": [
+        0.0288,
+        0.0294,
+        0.0354,
+        0.0348
+      ],
+      "excluded_as_outliers": []
+    }
+  },
+  "BRK-B": {
+    "name": "Berkshire Hathaway",
+    "years_used": [
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31",
+      "2022-12-31"
+    ],
+    "pe_history": {
+      "average": 11.49,
+      "n_years": 3,
+      "values": [
+        16.23,
+        10.6,
+        7.65
+      ],
+      "excluded_as_outliers": []
+    },
+    "pb_history": {
+      "average": 1.42,
+      "n_years": 4,
+      "values": [
+        1.51,
+        1.45,
+        1.31,
+        1.42
+      ],
+      "excluded_as_outliers": []
+    },
+    "ev_ebitda_history": null,
+    "ev_sales_history": {
+      "average": 2.59,
+      "n_years": 4,
+      "values": [
+        2.84,
+        2.4,
+        1.88,
+        3.24
+      ],
+      "excluded_as_outliers": []
+    },
+    "fcf_yield_history": {
+      "average": 0.0271,
+      "n_years": 4,
+      "values": [
+        0.023,
+        0.0123,
+        0.0405,
+        0.0325
+      ],
+      "excluded_as_outliers": []
+    }
+  }
+}

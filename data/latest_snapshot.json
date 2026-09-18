@@ -1,0 +1,322 @@
+{
+  "BNP.PA": {
+    "name": "BNP Paribas",
+    "group": "PEA",
+    "method": "PE",
+    "price": 100.74,
+    "pe_trailing": 8.714532,
+    "pe_forward": 7.617086,
+    "pb": 0.91932833,
+    "ev_ebitda": null,
+    "ev_revenue": null,
+    "fcf": null,
+    "market_cap": 110411038720,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "missing",
+      "ev_revenue": "missing"
+    }
+  },
+  "CS.PA": {
+    "name": "AXA",
+    "group": "PEA",
+    "method": "PE_PB",
+    "price": 44.73,
+    "pe_trailing": 12.056603,
+    "pe_forward": 9.996134,
+    "pb": 2.0248065,
+    "ev_ebitda": null,
+    "ev_revenue": 0.608,
+    "fcf": -26394499072,
+    "market_cap": 93526032384,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "missing",
+      "ev_revenue": "ok"
+    }
+  },
+  "DG.PA": {
+    "name": "Vinci",
+    "group": "PEA",
+    "method": "EV_EBITDA",
+    "price": 110.8,
+    "pe_trailing": 12.297447,
+    "pe_forward": 11.050253,
+    "pb": 2.0071738,
+    "ev_ebitda": 7.199,
+    "ev_revenue": 1.215,
+    "fcf": 8071124992,
+    "market_cap": 61262565376,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "VIE.PA": {
+    "name": "Veolia",
+    "group": "PEA",
+    "method": "EV_EBITDA",
+    "price": 31.74,
+    "pe_trailing": 18.453487,
+    "pe_forward": 12.132053,
+    "pb": 2.3698947,
+    "ev_ebitda": 8.735,
+    "ev_revenue": 1.131,
+    "fcf": 2206125056,
+    "market_cap": 23553175552,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "SAF.PA": {
+    "name": "Safran",
+    "group": "PEA",
+    "method": "EV_EBITDA",
+    "price": 323.0,
+    "pe_trailing": 34.656654,
+    "pe_forward": 24.96881,
+    "pb": 9.227253,
+    "ev_ebitda": 22.293,
+    "ev_revenue": 4.067,
+    "fcf": 3562749952,
+    "market_cap": 133843386368,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "AM.PA": {
+    "name": "Dassault Aviation",
+    "group": "PEA",
+    "method": "EV_EBITDA",
+    "price": 287.2,
+    "pe_trailing": 22.263567,
+    "pe_forward": 15.22254,
+    "pb": 3.3756862,
+    "ev_ebitda": 13.332,
+    "ev_revenue": 1.414,
+    "fcf": 1041297152,
+    "market_cap": 22128017408,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "SU.PA": {
+    "name": "Schneider Electric",
+    "group": "PEA",
+    "method": "EV_EBITDA",
+    "price": 285.75,
+    "pe_trailing": 33.736717,
+    "pe_forward": 23.529867,
+    "pb": 6.568513,
+    "ev_ebitda": 20.891,
+    "ev_revenue": 4.234,
+    "fcf": 5374750208,
+    "market_cap": 160963313664,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "TTE.PA": {
+    "name": "TotalEnergies",
+    "group": "PEA",
+    "method": "FCF_YIELD",
+    "price": 79.32,
+    "pe_trailing": 11.380201,
+    "pe_forward": 8.995005,
+    "pb": 1.5859191,
+    "ev_ebitda": 5.318,
+    "ev_revenue": 1.074,
+    "fcf": 13531374592,
+    "market_cap": 175220654080,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "MC.PA": {
+    "name": "LVMH",
+    "group": "PEA",
+    "method": "PE",
+    "price": 402.8,
+    "pe_trailing": 18.35916,
+    "pe_forward": 16.049368,
+    "pb": 2.9168115,
+    "ev_ebitda": 11.461,
+    "ev_revenue": 2.886,
+    "fcf": 11537125376,
+    "market_cap": 198566379520,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "AMZN": {
+    "name": "Amazon",
+    "group": "CTO",
+    "method": "EV_EBITDA",
+    "price": 253.0199,
+    "pe_trailing": 20.355583,
+    "pe_forward": 24.38739,
+    "pb": 4.9460454,
+    "ev_ebitda": 16.802,
+    "ev_revenue": 3.659,
+    "fcf": 3219124992,
+    "market_cap": 2729151823872,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "GOOGL": {
+    "name": "Google",
+    "group": "CTO",
+    "method": "PE_CASH_ADJ",
+    "price": 349.99,
+    "pe_trailing": 17.552156,
+    "pe_forward": 23.557516,
+    "pb": 6.8765717,
+    "ev_ebitda": 23.932,
+    "ev_revenue": 9.295,
+    "fcf": 22665000960,
+    "market_cap": 4280354865152,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "NVDA": {
+    "name": "Nvidia",
+    "group": "CTO",
+    "method": "EV_SALES",
+    "price": 219.68,
+    "pe_trailing": 27.737373,
+    "pe_forward": 14.007854,
+    "pb": 23.165665,
+    "ev_ebitda": 26.147,
+    "ev_revenue": 17.37,
+    "fcf": 41809874944,
+    "market_cap": 5304612814848,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "IBKR": {
+    "name": "Interactive Brokers",
+    "group": "CTO",
+    "method": "PE_NORMALIZED",
+    "price": 90.14,
+    "pe_trailing": 35.76984,
+    "pe_forward": 28.289688,
+    "pb": 6.8793406,
+    "ev_ebitda": null,
+    "ev_revenue": -4.198,
+    "fcf": null,
+    "market_cap": 153581928448,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "missing",
+      "ev_revenue": "suspect"
+    }
+  },
+  "MA": {
+    "name": "Mastercard",
+    "group": "CTO",
+    "method": "PE",
+    "price": 565.05,
+    "pe_trailing": 31.218231,
+    "pe_forward": 24.540918,
+    "pb": 88.34428,
+    "ev_ebitda": 22.91,
+    "ev_revenue": 14.497,
+    "fcf": 16961250304,
+    "market_cap": 494989410304,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "V": {
+    "name": "Visa",
+    "group": "CTO",
+    "method": "PE",
+    "price": 369.02,
+    "pe_trailing": 31.37925,
+    "pe_forward": 24.594282,
+    "pb": 19.555908,
+    "ev_ebitda": 22.207,
+    "ev_revenue": 15.521,
+    "fcf": 20404000768,
+    "market_cap": 692781645824,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "ok",
+      "ev_ebitda": "ok",
+      "ev_revenue": "ok"
+    }
+  },
+  "BRK-B": {
+    "name": "Berkshire Hathaway",
+    "group": "CTO",
+    "method": "PB",
+    "price": 509.015,
+    "pe_trailing": 12.798969,
+    "pe_forward": 22.936312,
+    "pb": 1.48,
+    "ev_ebitda": -1.79,
+    "ev_revenue": -0.608,
+    "fcf": 71975247872,
+    "market_cap": 1089653440512,
+    "quality": {
+      "pe_trailing": "ok",
+      "pe_forward": "ok",
+      "pb": "corrected_manually",
+      "ev_ebitda": "suspect",
+      "ev_revenue": "suspect"
+    }
+  }
+}
