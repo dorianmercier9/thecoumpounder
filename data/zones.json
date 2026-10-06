@@ -2,10 +2,10 @@
   "BNP.PA": {
     "name": "BNP Paribas",
     "indicateur": "P/E",
-    "multiple_actuel": 8.186999,
+    "multiple_actuel": 8.512021,
     "moyenne_historique": 5.32,
     "n_exercices_historique": 4,
-    "prix_actuel": 91.94,
+    "prix_actuel": 95.59,
     "zones": {
       "interessant": {
         "multiple_cible": 4.79,
@@ -25,10 +25,10 @@
   "CS.PA": {
     "name": "AXA",
     "indicateur": "P/E (P/B en indicateur croisé)",
-    "multiple_actuel": 11.377358,
+    "multiple_actuel": 11.549865,
     "moyenne_historique": 7.97,
     "n_exercices_historique": 4,
-    "prix_actuel": 42.21,
+    "prix_actuel": 42.85,
     "zones": {
       "interessant": {
         "multiple_cible": 7.17,
@@ -48,22 +48,22 @@
   "DG.PA": {
     "name": "Vinci",
     "indicateur": "EV/EBITDA",
-    "multiple_actuel": 6.934,
+    "multiple_actuel": 6.906,
     "moyenne_historique": 6.05,
     "n_exercices_historique": 4,
-    "prix_actuel": 106.2,
+    "prix_actuel": 108.5,
     "zones": {
       "interessant": {
         "multiple_cible": 5.45,
-        "prix_implique": 83.47
+        "prix_implique": 85.62
       },
       "tres_interessant": {
         "multiple_cible": 4.84,
-        "prix_implique": 74.13
+        "prix_implique": 76.04
       },
       "exceptionnel": {
         "multiple_cible": 4.23,
-        "prix_implique": 64.79
+        "prix_implique": 66.46
       }
     },
     "position_actuelle": "au-dessus de la zone I"
@@ -71,22 +71,22 @@
   "VIE.PA": {
     "name": "Veolia",
     "indicateur": "EV/EBITDA",
-    "multiple_actuel": 8.56,
+    "multiple_actuel": 8.525,
     "moyenne_historique": 5.14,
     "n_exercices_historique": 4,
-    "prix_actuel": 30.71,
+    "prix_actuel": 31.25,
     "zones": {
       "interessant": {
         "multiple_cible": 4.63,
-        "prix_implique": 16.61
+        "prix_implique": 16.97
       },
       "tres_interessant": {
         "multiple_cible": 4.11,
-        "prix_implique": 14.75
+        "prix_implique": 15.07
       },
       "exceptionnel": {
         "multiple_cible": 3.6,
-        "prix_implique": 12.92
+        "prix_implique": 13.2
       }
     },
     "position_actuelle": "au-dessus de la zone I"
@@ -94,22 +94,22 @@
   "SAF.PA": {
     "name": "Safran",
     "indicateur": "EV/EBITDA",
-    "multiple_actuel": 22.192,
+    "multiple_actuel": 22.171,
     "moyenne_historique": 9.47,
     "n_exercices_historique": 2,
-    "prix_actuel": 330.2,
+    "prix_actuel": 331.2,
     "zones": {
       "interessant": {
         "multiple_cible": 8.52,
-        "prix_implique": 126.77
+        "prix_implique": 127.28
       },
       "tres_interessant": {
         "multiple_cible": 7.58,
-        "prix_implique": 112.78
+        "prix_implique": 113.23
       },
       "exceptionnel": {
         "multiple_cible": 6.63,
-        "prix_implique": 98.65
+        "prix_implique": 99.04
       }
     },
     "position_actuelle": "au-dessus de la zone I"
@@ -117,22 +117,22 @@
   "AM.PA": {
     "name": "Dassault Aviation",
     "indicateur": "EV/EBITDA",
-    "multiple_actuel": 12.532,
+    "multiple_actuel": 13.055,
     "moyenne_historique": 10.71,
     "n_exercices_historique": 4,
-    "prix_actuel": 286.4,
+    "prix_actuel": 280.8,
     "zones": {
       "interessant": {
         "multiple_cible": 9.64,
-        "prix_implique": 220.31
+        "prix_implique": 207.35
       },
       "tres_interessant": {
         "multiple_cible": 8.57,
-        "prix_implique": 195.85
+        "prix_implique": 184.33
       },
       "exceptionnel": {
         "multiple_cible": 7.5,
-        "prix_implique": 171.4
+        "prix_implique": 161.32
       }
     },
     "position_actuelle": "au-dessus de la zone I"
@@ -140,22 +140,22 @@
   "SU.PA": {
     "name": "Schneider Electric",
     "indicateur": "EV/EBITDA",
-    "multiple_actuel": 21.94,
+    "multiple_actuel": 19.947,
     "moyenne_historique": 14.38,
     "n_exercices_historique": 4,
-    "prix_actuel": 273.7,
+    "prix_actuel": 262.75,
     "zones": {
       "interessant": {
         "multiple_cible": 12.94,
-        "prix_implique": 161.43
+        "prix_implique": 170.45
       },
       "tres_interessant": {
         "multiple_cible": 11.5,
-        "prix_implique": 143.46
+        "prix_implique": 151.48
       },
       "exceptionnel": {
         "multiple_cible": 10.07,
-        "prix_implique": 125.62
+        "prix_implique": 132.65
       }
     },
     "position_actuelle": "au-dessus de la zone I"
@@ -163,10 +163,10 @@
   "TTE.PA": {
     "name": "TotalEnergies",
     "indicateur": "Rendement du FCF (FCF yield)",
-    "multiple_actuel": 0.0812,
+    "multiple_actuel": 0.0818,
     "moyenne_historique": 0.1775,
     "n_exercices_historique": 4,
-    "prix_actuel": 75.47,
+    "prix_actuel": 74.93,
     "zones": {
       "interessant": {
         "rendement_cible": 0.1972,
@@ -186,10 +186,10 @@
   "MC.PA": {
     "name": "LVMH",
     "indicateur": "P/E",
-    "multiple_actuel": 17.329079,
+    "multiple_actuel": 17.543299,
     "moyenne_historique": 24.16,
     "n_exercices_historique": 4,
-    "prix_actuel": 380.2,
+    "prix_actuel": 384.9,
     "zones": {
       "interessant": {
         "multiple_cible": 21.74,
@@ -209,14 +209,14 @@
   "AMZN": {
     "name": "Amazon",
     "indicateur": "EV/EBITDA",
-    "multiple_actuel": 16.823,
+    "multiple_actuel": 16.815,
     "moyenne_historique": 20.28,
     "n_exercices_historique": 4,
-    "prix_actuel": 251.52,
+    "prix_actuel": 251.4,
     "zones": {
       "interessant": {
         "multiple_cible": 18.25,
-        "prix_implique": 272.86
+        "prix_implique": 272.85
       },
       "tres_interessant": {
         "multiple_cible": 16.22,
@@ -232,10 +232,10 @@
   "GOOGL": {
     "name": "Google",
     "indicateur": "P/E (non ajusté de la trésorerie ici)",
-    "multiple_actuel": 17.235323,
+    "multiple_actuel": 17.384344,
     "moyenne_historique": 21.37,
     "n_exercices_historique": 4,
-    "prix_actuel": 343.5,
+    "prix_actuel": 346.47,
     "zones": {
       "interessant": {
         "multiple_cible": 19.23,
@@ -255,22 +255,22 @@
   "NVDA": {
     "name": "Nvidia",
     "indicateur": "EV/ventes",
-    "multiple_actuel": 18.532,
+    "multiple_actuel": 18.926,
     "moyenne_historique": 18.7,
     "n_exercices_historique": 4,
-    "prix_actuel": 233.95,
+    "prix_actuel": 238.9,
     "zones": {
       "interessant": {
         "multiple_cible": 16.83,
-        "prix_implique": 212.46
+        "prix_implique": 212.44
       },
       "tres_interessant": {
         "multiple_cible": 14.96,
-        "prix_implique": 188.86
+        "prix_implique": 188.84
       },
       "exceptionnel": {
         "multiple_cible": 13.09,
-        "prix_implique": 165.25
+        "prix_implique": 165.23
       }
     },
     "position_actuelle": "au-dessus de la zone I"
@@ -278,10 +278,10 @@
   "IBKR": {
     "name": "Interactive Brokers",
     "indicateur": "P/E (non normalisé sur cycle ici)",
-    "multiple_actuel": 35.039684,
+    "multiple_actuel": 35.337303,
     "moyenne_historique": 19.26,
     "n_exercices_historique": 4,
-    "prix_actuel": 88.3,
+    "prix_actuel": 89.05,
     "zones": {
       "interessant": {
         "multiple_cible": 17.33,
@@ -301,10 +301,10 @@
   "MA": {
     "name": "Mastercard",
     "indicateur": "P/E",
-    "multiple_actuel": 30.377338,
+    "multiple_actuel": 31.055557,
     "moyenne_historique": 33.26,
     "n_exercices_historique": 4,
-    "prix_actuel": 552.26,
+    "prix_actuel": 564.59,
     "zones": {
       "interessant": {
         "multiple_cible": 29.93,
@@ -324,10 +324,10 @@
   "V": {
     "name": "Visa",
     "indicateur": "P/E",
-    "multiple_actuel": 30.694468,
+    "multiple_actuel": 31.46468,
     "moyenne_historique": 34.02,
     "n_exercices_historique": 4,
-    "prix_actuel": 360.66,
+    "prix_actuel": 369.71,
     "zones": {
       "interessant": {
         "multiple_cible": 30.62,
@@ -350,19 +350,19 @@
     "multiple_actuel": 1.48,
     "moyenne_historique": 1.42,
     "n_exercices_historique": 4,
-    "prix_actuel": 502.65,
+    "prix_actuel": 504.26,
     "zones": {
       "interessant": {
         "multiple_cible": 1.28,
-        "prix_implique": 434.72
+        "prix_implique": 436.12
       },
       "tres_interessant": {
         "multiple_cible": 1.14,
-        "prix_implique": 387.18
+        "prix_implique": 388.42
       },
       "exceptionnel": {
         "multiple_cible": 0.99,
-        "prix_implique": 336.23
+        "prix_implique": 337.31
       }
     },
     "position_actuelle": "au-dessus de la zone I"
