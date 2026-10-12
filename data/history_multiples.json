@@ -815,55 +815,55 @@
       "2022-12-31"
     ],
     "pe_history": {
-      "average": 33.26,
+      "average": 33.21,
       "n_years": 4,
       "values": [
-        34.02,
-        34.24,
-        32.26,
-        32.52
+        33.97,
+        34.18,
+        32.21,
+        32.47
       ],
       "excluded_as_outliers": []
     },
     "pb_history": {
-      "average": 59.29,
+      "average": 59.2,
       "n_years": 4,
       "values": [
-        65.81,
-        67.97,
-        52.12,
-        51.28
+        65.71,
+        67.86,
+        52.04,
+        51.2
       ],
       "excluded_as_outliers": []
     },
     "ev_ebitda_history": {
-      "average": 25.54,
+      "average": 25.5,
       "n_years": 4,
       "values": [
-        25.32,
-        26.82,
-        24.53,
-        25.47
+        25.28,
+        26.78,
+        24.49,
+        25.44
       ],
       "excluded_as_outliers": []
     },
     "ev_sales_history": {
-      "average": 15.32,
+      "average": 15.3,
       "n_years": 4,
       "values": [
-        15.79,
-        16.0,
-        14.67,
-        14.84
+        15.76,
+        15.97,
+        14.65,
+        14.82
       ],
       "excluded_as_outliers": []
     },
     "fcf_yield_history": {
-      "average": 0.0311,
+      "average": 0.0312,
       "n_years": 4,
       "values": [
         0.0323,
-        0.0308,
+        0.0309,
         0.0302,
         0.0313
       ],
