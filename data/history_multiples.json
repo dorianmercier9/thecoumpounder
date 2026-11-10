@@ -873,63 +873,63 @@
   "V": {
     "name": "Visa",
     "years_used": [
+      "2026-09-30",
       "2025-09-30",
       "2024-09-30",
-      "2023-09-30",
-      "2022-09-30"
+      "2023-09-30"
     ],
     "pe_history": {
-      "average": 34.02,
+      "average": 33.01,
       "n_years": 4,
       "values": [
-        37.29,
-        32.25,
-        32.21,
-        34.35
+        30.31,
+        37.26,
+        32.26,
+        32.21
       ],
       "excluded_as_outliers": []
     },
     "pb_history": {
-      "average": 16.2,
+      "average": 17.52,
       "n_years": 4,
       "values": [
         19.73,
-        16.27,
-        14.36,
-        14.44
+        19.72,
+        16.28,
+        14.36
       ],
       "excluded_as_outliers": []
     },
     "ev_ebitda_history": {
-      "average": 26.43,
+      "average": 25.73,
       "n_years": 4,
       "values": [
-        29.07,
-        25.22,
-        24.78,
-        26.64
+        23.85,
+        29.05,
+        25.24,
+        24.78
       ],
       "excluded_as_outliers": []
     },
     "ev_sales_history": {
-      "average": 17.95,
+      "average": 17.44,
       "n_years": 4,
       "values": [
-        18.9,
-        17.97,
-        17.17,
-        17.76
+        15.72,
+        18.89,
+        17.98,
+        17.17
       ],
       "excluded_as_outliers": []
     },
     "fcf_yield_history": {
-      "average": 0.0321,
+      "average": 0.0311,
       "n_years": 4,
       "values": [
-        0.0288,
-        0.0294,
-        0.0354,
-        0.0348
+        0.031,
+        0.0289,
+        0.0293,
+        0.0354
       ],
       "excluded_as_outliers": []
     }
