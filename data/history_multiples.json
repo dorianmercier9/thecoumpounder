@@ -879,57 +879,57 @@
       "2023-09-30"
     ],
     "pe_history": {
-      "average": 33.01,
+      "average": 32.95,
       "n_years": 4,
       "values": [
-        30.31,
-        37.26,
-        32.26,
-        32.21
+        30.25,
+        37.19,
+        32.2,
+        32.15
       ],
       "excluded_as_outliers": []
     },
     "pb_history": {
-      "average": 17.52,
+      "average": 17.49,
       "n_years": 4,
       "values": [
-        19.73,
-        19.72,
-        16.28,
-        14.36
+        19.69,
+        19.68,
+        16.25,
+        14.34
       ],
       "excluded_as_outliers": []
     },
     "ev_ebitda_history": {
-      "average": 25.73,
+      "average": 25.68,
       "n_years": 4,
       "values": [
-        23.85,
-        29.05,
-        25.24,
-        24.78
+        23.81,
+        29.0,
+        25.19,
+        24.73
       ],
       "excluded_as_outliers": []
     },
     "ev_sales_history": {
-      "average": 17.44,
+      "average": 17.41,
       "n_years": 4,
       "values": [
-        15.72,
-        18.89,
-        17.98,
-        17.17
+        15.69,
+        18.85,
+        17.94,
+        17.13
       ],
       "excluded_as_outliers": []
     },
     "fcf_yield_history": {
-      "average": 0.0311,
+      "average": 0.0312,
       "n_years": 4,
       "values": [
         0.031,
         0.0289,
-        0.0293,
-        0.0354
+        0.0294,
+        0.0355
       ],
       "excluded_as_outliers": []
     }
